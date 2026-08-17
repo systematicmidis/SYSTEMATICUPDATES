@@ -18,6 +18,7 @@
   "polls": [
     {
       "id": "favorite-mode",
+      "poll_id": 1,
       "title": "Which mode do you use?",
       "options": ["Fast mode", "Streamed mode", "Double compression"],
       "submit_url": "https://polls.systematic-midis.workers.dev/vote",

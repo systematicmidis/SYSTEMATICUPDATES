@@ -3,9 +3,7 @@
    "name": "Systematics TRILLION MIDI maker",
   "notes": "What's new in this release... Added news to the app! Hit the cymbal",
   "url": "https://systematicmidis.github.io/systematics-v1.2.0.0.zip"
-}
-{
-  "articles": [ { "title": "..." } ],
+"articles": [ { "title": "..." } ],
   "polls": [
     {
       "id": "favorite-mode",

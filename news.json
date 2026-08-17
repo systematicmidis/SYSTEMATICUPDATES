@@ -13,6 +13,13 @@
       "summary": "New update out now — faster loading and a news bar.",
       "body": "What's new:\n- Faster MIDI loading\n- News announcements at the bottom\n\nEnjoy!",
       "url": "https://github.com/systematicmidis"
+    },
+    {
+      "title": "This article is so old!!",
+      "date": "1-01-01",
+      "summary": "Yup",
+      "body": "This is a test!",
+      "url": "https://github.com/systematicmidis"
     }
   ],
   "polls": [
@@ -21,6 +28,7 @@
       "poll_id": 1,
       "title": "Which mode do you use?",
       "options": ["Fast mode", "Streamed mode", "Double compression"],
+      "multiple": 0,
       "submit_url": "https://polls.systematic-midis.workers.dev/vote",
       "results_url": "https://polls.systematic-midis.workers.dev/results?poll=favorite-mode"
     }

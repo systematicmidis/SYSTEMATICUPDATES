@@ -1,12 +1,19 @@
 {
   "articles": [
     {
+      "title": "Polls!",
+      "date": "2026-08-17",
+      "summary": "Coming soon...",
+      "body": "Coming soon you can vote for new features to be added!",
+      "url": "https://github.com/systematicmidis"
+    },
+    {
       "title": "Systematics TRILLION MIDI maker v1.2.0.0",
       "date": "2026-08-17",
       "summary": "New update out now — faster loading and a news bar.",
       "body": "What's new:\n- Faster MIDI loading\n- News announcements at the bottom\n\nEnjoy!",
       "url": "https://github.com/systematicmidis"
-    }
+    },
   ],
   "polls": [
     {
